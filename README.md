@@ -3,11 +3,11 @@
 <h3 align="center">A Passionate Front End Developer From Pakistan</h3>
 <img align="right"alt="Coding"width="400"src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
-- 🔭 I’m currently working on **Spotify Clone 2.0**
+- 🔭 I’m currently working on **NNothing 💤**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Next-Js**
+- 🤝 I’m looking for help with **Discord Bots with Discord.py**
 
 
 <p align="left">
